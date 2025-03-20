@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "604023343602",
+    "firebase_url": "https://tuantn-magazine-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tuantn-magazine",
+    "storage_bucket": "tuantn-magazine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604023343602:android:de09e1b54551da09f5836b",
+        "android_client_info": {
+          "package_name": "com.example.thigk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6BS5FlEsbg3ZhKcP_wIa4JimLNhaSaEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
